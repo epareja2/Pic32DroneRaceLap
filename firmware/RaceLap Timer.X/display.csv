@@ -1,0 +1,8 @@
+ads7843_DrvData.dispCalibPoints[0].xPoint, 50,
+ads7843_DrvData.dispCalibPoints[0].yPoint, 50,
+ads7843_DrvData.dispCalibPoints[1].xPoint, 190,
+ads7843_DrvData.dispCalibPoints[1].yPoint, 110,
+ads7843_DrvData.dispCalibPoints[2].xPoint, 110,
+ads7843_DrvData.dispCalibPoints[2].yPoint, 270,
+ads7843_DrvData.dispCalibPoints[3].xPoint, 0,
+ads7843_DrvData.dispCalibPoints[3].yPoint, 0,

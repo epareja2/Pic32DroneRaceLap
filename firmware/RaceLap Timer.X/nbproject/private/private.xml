@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="61">
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/ScreenTasks/RaceStartWnd.c</url>
+            <bookmark id="56">
+                <name/>
+                <line>448</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/ConfigRaceLevelsWnd.c</url>
+            <bookmark id="36">
+                <name/>
+                <line>135</line>
+                <key/>
+            </bookmark>
+            <bookmark id="57">
+                <name/>
+                <line>155</line>
+                <key/>
+            </bookmark>
+            <bookmark id="37">
+                <name/>
+                <line>430</line>
+                <key/>
+            </bookmark>
+            <bookmark id="58">
+                <name/>
+                <line>462</line>
+                <key/>
+            </bookmark>
+            <bookmark id="38">
+                <name/>
+                <line>488</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_05/apps/Ili9325_Demo_3/firmware/src/app.c</url>
+            <bookmark id="22">
+                <name/>
+                <line>144</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_04/apps/Ili9325_Demo_2/firmware/src/system_config/Graphic32MX795/framework/driver/touch/ads7843/drv_ads7843_local.h</url>
+            <bookmark id="7">
+                <name/>
+                <line>158</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_05/apps/Ili9325_Demo_3/firmware/src/system_config/Graphic32MX795/framework/driver/touch/ads7843/src/drv_ads7843.c</url>
+            <bookmark id="21">
+                <name/>
+                <line>1235</line>
+                <key/>
+            </bookmark>
+            <bookmark id="15">
+                <name/>
+                <line>1493</line>
+                <key/>
+            </bookmark>
+            <bookmark id="19">
+                <name/>
+                <line>1493</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_04/apps/Ili9325_Demo_2/firmware/src/app.c</url>
+            <bookmark id="1">
+                <name/>
+                <line>228</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_04/apps/Ili9325_Demo_3/firmware/src/app.c</url>
+            <bookmark id="11">
+                <name/>
+                <line>138</line>
+                <key/>
+            </bookmark>
+            <bookmark id="10">
+                <name/>
+                <line>297</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/RaceDetection.c</url>
+            <bookmark id="54">
+                <name/>
+                <line>342</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_04/apps/Ili9325_Demo_3/firmware/src/system_config/Graphic32MX795/framework/driver/touch/ads7843/src/drv_ads7843.c</url>
+            <bookmark id="9">
+                <name/>
+                <line>518</line>
+                <key/>
+            </bookmark>
+            <bookmark id="12">
+                <name/>
+                <line>1197</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/app.c</url>
+            <bookmark id="29">
+                <name/>
+                <line>565</line>
+                <key/>
+            </bookmark>
+            <bookmark id="34">
+                <name/>
+                <line>568</line>
+                <key/>
+            </bookmark>
+            <bookmark id="35">
+                <name/>
+                <line>640</line>
+                <key/>
+            </bookmark>
+            <bookmark id="27">
+                <name/>
+                <line>640</line>
+                <key/>
+            </bookmark>
+            <bookmark id="52">
+                <name/>
+                <line>701</line>
+                <key/>
+            </bookmark>
+            <bookmark id="61">
+                <name/>
+                <line>806</line>
+                <key/>
+            </bookmark>
+            <bookmark id="26">
+                <name/>
+                <line>957</line>
+                <key/>
+            </bookmark>
+            <bookmark id="60">
+                <name/>
+                <line>991</line>
+                <key/>
+            </bookmark>
+            <bookmark id="24">
+                <name/>
+                <line>1009</line>
+                <key/>
+            </bookmark>
+            <bookmark id="32">
+                <name/>
+                <line>1012</line>
+                <key/>
+            </bookmark>
+            <bookmark id="28">
+                <name/>
+                <line>1059</line>
+                <key/>
+            </bookmark>
+            <bookmark id="31">
+                <name/>
+                <line>1120</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/ScreenTasks/RaceParamWnd.c</url>
+            <bookmark id="53">
+                <name/>
+                <line>96</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_05/apps/Ili9325_Demo_3/firmware/src/system_config/Graphic32MX795/framework/driver/eeprom/SPI_Eeprom_Drv.c</url>
+            <bookmark id="23">
+                <name/>
+                <line>123</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/RX5808.c</url>
+            <bookmark id="41">
+                <name/>
+                <line>94</line>
+                <key/>
+            </bookmark>
+            <bookmark id="55">
+                <name/>
+                <line>296</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/microchip/harmony/v2_04/apps/Ili9325_Demo_2/firmware/src/system_config/Graphic32MX795/framework/driver/touch/ads7843/src/drv_ads7843.c</url>
+            <bookmark id="6">
+                <name/>
+                <line>222</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>595</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>1567</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/ScreenTasks/ConfigRaceThrLevelsWnd.c</url>
+            <bookmark id="45">
+                <name/>
+                <line>45</line>
+                <key/>
+            </bookmark>
+            <bookmark id="46">
+                <name/>
+                <line>52</line>
+                <key/>
+            </bookmark>
+            <bookmark id="48">
+                <name/>
+                <line>97</line>
+                <key/>
+            </bookmark>
+            <bookmark id="49">
+                <name/>
+                <line>113</line>
+                <key/>
+            </bookmark>
+            <bookmark id="51">
+                <name/>
+                <line>278</line>
+                <key/>
+            </bookmark>
+            <bookmark id="50">
+                <name/>
+                <line>308</line>
+                <key/>
+            </bookmark>
+            <bookmark id="44">
+                <name/>
+                <line>318</line>
+                <key/>
+            </bookmark>
+            <bookmark id="43">
+                <name/>
+                <line>348</line>
+                <key/>
+            </bookmark>
+            <bookmark id="47">
+                <name/>
+                <line>361</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Microchip/Harmony/v2_06/apps/RaceLap%20Timer%20V1.0/firmware/src/UsartSimpleBuffer.c</file>
+        </group>
+    </open-files>
+</project-private>
